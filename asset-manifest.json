@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bbdc2d8.css",
+    "main.js": "/static/js/main.06c83895.js",
+    "static/js/787.a8723d96.chunk.js": "/static/js/787.a8723d96.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/product_3.png": "/static/media/product_3.7157c7cb7c8fc0bf77fd.png",
+    "static/media/product_7.png": "/static/media/product_7.00ecb686e50497c99322.png",
+    "static/media/product_9.png": "/static/media/product_9.0602f50ef1cf57749182.png",
+    "static/media/product_4.png": "/static/media/product_4.de3d82bec853d2c4cd03.png",
+    "static/media/product_2.png": "/static/media/product_2.757a2b52fd44ab6c7652.png",
+    "static/media/product_1.png": "/static/media/product_1.faeefbd8f6f4455cb905.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/product_8.png": "/static/media/product_8.3691d4fc23e77d9611d7.png",
+    "static/media/product_5.png": "/static/media/product_5.bfc164d0111cd8549e26.png",
+    "static/media/product_6.png": "/static/media/product_6.94aa3c88281275a60f91.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/index.html",
+    "main.2bbdc2d8.css.map": "/static/css/main.2bbdc2d8.css.map",
+    "main.06c83895.js.map": "/static/js/main.06c83895.js.map",
+    "787.a8723d96.chunk.js.map": "/static/js/787.a8723d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bbdc2d8.css",
+    "static/js/main.06c83895.js"
+  ]
+}

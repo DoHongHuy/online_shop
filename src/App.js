@@ -13,15 +13,15 @@ import Header  from './components/Header/Header';
   // "name": "online_shop",
   // "version": "0.1.0",
   // rồi sử dụng lệnh  npm run deploy -
+// Tất cả mợi file đều phải nằm trong thư mục src
+import '../src/coloshop-master/styles/bootstrap4/bootstrap.min.css';
 
-import 'coloshop-master/styles/bootstrap4/bootstrap.min.css';
-
-import 'coloshop-master/plugins/font-awesome-4.7.0/css/font-awesome.min.css';
-import 'coloshop-master/plugins/OwlCarousel2-2.2.1/owl.carousel.css';
-import 'coloshop-master/plugins/OwlCarousel2-2.2.1/owl.theme.default.css';
-import 'coloshop-master/plugins/OwlCarousel2-2.2.1/animate.css';
-import 'coloshop-master/styles/main_styles.css';
-import 'coloshop-master/styles/responsive.css';
+import '../src/coloshop-master/plugins/OwlCarousel2-2.2.1/owl.carousel.css';
+import '../src/coloshop-master/plugins/font-awesome-4.7.0/css/font-awesome.min.css';
+import '../src/coloshop-master/plugins/OwlCarousel2-2.2.1/owl.theme.default.css';
+import '../src/coloshop-master/plugins/OwlCarousel2-2.2.1/animate.css';
+import '../src/coloshop-master/styles/main_styles.css';
+import '../src/coloshop-master/styles/responsive.css';
 
 // import 'coloshop-master/js/jquery-3.2.1.min.js'
 

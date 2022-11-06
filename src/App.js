@@ -1,7 +1,18 @@
 import './App.css';
 import Header  from './components/Header/Header';
 
-// import Jquery from './components/Jquery/Jquery'
+//  gh-pages --save-dev install
+// 
+
+
+// thêm vào script ở package.json:  
+  //  "predeploy": "npm run build",
+    // "deploy": "gh-pages -d build",
+    // thêm vào package-lock.json
+  // "homepage": "http://dohonghuy.github.io//online_shop",
+  // "name": "online_shop",
+  // "version": "0.1.0",
+  // rồi sử dụng lệnh  npm run deploy -
 
 import 'coloshop-master/styles/bootstrap4/bootstrap.min.css';
 
